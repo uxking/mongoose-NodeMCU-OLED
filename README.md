@@ -1,4 +1,4 @@
-# mongooseNodeMCU
+# mongoose NodeMCU MQTT with OLED
 mongoose NodeMCU project
 
 OLED display's time of day, temp from mqtt, and humidity from mqtt.
